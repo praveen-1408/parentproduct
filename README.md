@@ -1,1 +1,2 @@
 # parentproduct
+MAVEN ASSIGNMENT PROJECT
